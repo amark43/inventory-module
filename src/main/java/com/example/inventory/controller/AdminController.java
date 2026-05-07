@@ -20,9 +20,7 @@ public class AdminController {
     @GetMapping("/dealers/countBySubscription")
     @PreAuthorize("hasRole('GLOBAL_ADMIN')")
     public Map<String, Long> countBySubscription() {
-
         Map<String, Long> response = new HashMap<>();
-
         dealerRepository.countBySubscription()
                 .forEach(row -> {
                     response.put(
@@ -30,7 +28,6 @@ public class AdminController {
                             (Long) row[1]
                     );
                 });
-
         return response;
     }
 }
