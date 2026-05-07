@@ -1,0 +1,17 @@
+/Users/amarnath.kumar/Downloads/inventory-module/src/main/java/com/example/inventory/service/VehicleService.java
+/Users/amarnath.kumar/Downloads/inventory-module/src/main/java/com/example/inventory/domain/Status.java
+/Users/amarnath.kumar/Downloads/inventory-module/src/main/java/com/example/inventory/service/DealerService.java
+/Users/amarnath.kumar/Downloads/inventory-module/src/main/java/com/example/inventory/config/SecurityConfig.java
+/Users/amarnath.kumar/Downloads/inventory-module/src/main/java/com/example/inventory/controller/VehicleController.java
+/Users/amarnath.kumar/Downloads/inventory-module/src/main/java/com/example/inventory/domain/SubscriptionType.java
+/Users/amarnath.kumar/Downloads/inventory-module/src/main/java/com/example/inventory/controller/AdminController.java
+/Users/amarnath.kumar/Downloads/inventory-module/src/main/java/com/example/inventory/controller/DealerController.java
+/Users/amarnath.kumar/Downloads/inventory-module/src/main/java/com/example/inventory/tenant/TenantContext.java
+/Users/amarnath.kumar/Downloads/inventory-module/src/main/java/com/example/inventory/exception/GlobalExceptionHandler.java
+/Users/amarnath.kumar/Downloads/inventory-module/src/main/java/com/example/inventory/config/WebConfig.java
+/Users/amarnath.kumar/Downloads/inventory-module/src/main/java/com/example/inventory/InventoryApplication.java
+/Users/amarnath.kumar/Downloads/inventory-module/src/main/java/com/example/inventory/tenant/TenantInterceptor.java
+/Users/amarnath.kumar/Downloads/inventory-module/src/main/java/com/example/inventory/domain/Dealer.java
+/Users/amarnath.kumar/Downloads/inventory-module/src/main/java/com/example/inventory/repository/VehicleRepository.java
+/Users/amarnath.kumar/Downloads/inventory-module/src/main/java/com/example/inventory/domain/Vehicle.java
+/Users/amarnath.kumar/Downloads/inventory-module/src/main/java/com/example/inventory/repository/DealerRepository.java

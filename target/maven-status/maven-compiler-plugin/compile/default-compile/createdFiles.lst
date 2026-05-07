@@ -1,0 +1,17 @@
+com/example/inventory/tenant/TenantInterceptor.class
+com/example/inventory/repository/VehicleRepository.class
+com/example/inventory/controller/AdminController.class
+com/example/inventory/repository/DealerRepository.class
+com/example/inventory/controller/DealerController.class
+com/example/inventory/domain/Dealer.class
+com/example/inventory/domain/Vehicle.class
+com/example/inventory/service/DealerService.class
+com/example/inventory/domain/Status.class
+com/example/inventory/controller/VehicleController.class
+com/example/inventory/domain/SubscriptionType.class
+com/example/inventory/InventoryApplication.class
+com/example/inventory/config/SecurityConfig.class
+com/example/inventory/tenant/TenantContext.class
+com/example/inventory/config/WebConfig.class
+com/example/inventory/service/VehicleService.class
+com/example/inventory/exception/GlobalExceptionHandler.class
