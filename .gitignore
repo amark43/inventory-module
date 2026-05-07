@@ -1,0 +1,37 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# OS Files
+Thumbs.db
+
+# Environment files
+.env
+
+# Generated files
+out/
+build/
+
+# H2 Database
+*.mv.db
+*.trace.db
